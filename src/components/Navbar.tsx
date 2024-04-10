@@ -21,11 +21,11 @@ const Navbar = () => {
 
                 <div className="flex gap-4">
                     <Link href="#">
-                        <Image src='/twitter.webp' width={25} height={25} />
+                        <Image src='/twitter.webp' width={25} height={25} alt="Twitter" />
 
                     </Link>
                     <Link href="#">
-                        <Image src='/share.png' width={25} height={25} />
+                        <Image src='/share.png' width={25} height={25} alt="Share" />
 
                     </Link>
                 </div>
