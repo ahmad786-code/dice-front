@@ -811,7 +811,7 @@ width: 90px;
  
   height: 100vh;
  
-  background:  url('../../public//bg2.png'), url('https://static.wixstatic.com/media/f1cee0_5b9a4330ce3543989c26a23b9cdb58e0~mv2.jpg/v1/fill/w_1226,h_720,al_c,q_85,enc_auto/f1cee0_5b9a4330ce3543989c26a23b9cdb58e0~mv2.jpg'), url('https://static.wixstatic.com/media/f1cee0_5b9a4330ce3543989c26a23b9cdb58e0~mv2.jpg/v1/fill/w_1226,h_720,al_c,q_85,enc_auto/f1cee0_5b9a4330ce3543989c26a23b9cdb58e0~mv2.jpg') ;
+  background:  url('../../public//bg2.png'),  url('https://static.wixstatic.com/media/f1cee0_5b9a4330ce3543989c26a23b9cdb58e0~mv2.jpg/v1/fill/w_1226,h_720,al_c,q_85,enc_auto/f1cee0_5b9a4330ce3543989c26a23b9cdb58e0~mv2.jpg') ;
   background-size: cover;
   background-position: left top, right top;
   background-repeat: no-repeat;
